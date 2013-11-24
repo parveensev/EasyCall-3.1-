@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  EasyCall
+
+  Created by Walter M. Vargas-Pena on 4/5/13.
+
+*/
+
+// global
+
+"OK" = "OK";
+"CANCEL" = "Cancel";
+"EASY_CALL_APP_NAME" = "EasyCall";
+
+//Dialer View Controller
+"NO_HOST_CODE_SET" = "No Host Code Set";
+"NO_PARTICIPANT_CODE_FOUND_TEXT" = "Participant code not found";
+"SELECT_CORRECT_HOST_CODE" = "Select correct participant code";
+"NO_HOST_CODE_TITLE" = "No Host code has been set";
+"NO_HOST_CODE_MESSAGE" = "No host code has been set. Would you like to add a host code now?";
+"NO" = "No";
+"ADD_HOST_CODE" = "Add Host Code";
+"IPAD_NOT_SUPPORTED" = "iPad is not supported";
+"IPAD_NOT_SUPPORTED_MESSAGE" = "You currently cannot make calls using your iPad.";
+"CALL" = "Call";
+"ANIMATION_FINISHED_TEXT" = "Meetings finished... \nCheck back tomorrow!";
+
+"DIALER_TITLE" = "Dialer";
+"HOST" = "Host";
+"PASSCODE" = "Passcode";
+"MULTIPLE_PASSCODE_TEXT" = "Multiple passcodes detected";
+"NO_NOTES_MESSAGE" = "No notes available for this event";
+"NO_EVENT_ORGANIZER_FOR_MEETING" = "No organizer available";
+"NOTES_TITLE" = "Notes";
+"LOCATION_ALERT_TITLE" = "Location";
+"ATTENDEE_POPOVER_TITLE" = "Attendees";
+"NO_NAME_AVAILABLE" = "No name available";
+"PARSED_CODES_TITLE" = "Available passcodes";
+"OTHER_OPTIONS_TITLE" = "Other Options";
+"USE_HOST_CODE" = "Use My Host Code";
+"MANUALLY_ADD_HOST_CODE" = "Manually Add Participant Code";
+"CALL_WITHOUT_CODE" = "Call without a code";
+"ORGCHART_MESSAGE_TITLE" = "Org Chart";
+"ORGCHART_MESSAGE" = "Please install Org Chart from the Pfizer app store to enable attendee search feature";
+
+"NO_LOCATION_PERMISSION_TITLE" = "Location Permission";
+"NO_LOCATION_PERMISSION_MESSAGE" = "EasyCall has no location permission, please to go settings and enable location services for EasyCall. EasyCall will now close";
+"NO_CALENDAR_PERMISSION_TITLE" = "Calendar Permission";
+"NO_CALENDAR_PERMISSION_MESSAGE" = "EasyCall has no calendar permission, please to go settings and enable calendar access for EasyCall. EasyCall will now close.";
+
+"NO_EVENT_LOCATION_MESSAGE" = "Current event has no location information.";
+
+"ORGANIZER" = "Organizer";
+"ATTENDEES" = "Participants";
+
+//nil event
+"NO_EVENT_ORGANIZER_TITLE" = "";
+"NO_EVENT_MEETING_TITLE" = "";
+"NO_EVENT_NOTES_TITLE" = "";
+"NO_EVENT_CODE_TITLE" = "";
+
+//Settings View Controller
+"PASSCODE_TITLE" = "Passcode";
+"SETTINGS_TITLE" = "Settings";
+"COUNTRY_TITLE" = "Country Number Defaults";
+"COUNTRY_TITLE_SHORT" = "Defaults";
+"ALLDAY_EVENT_CELL_TITLE" = "Show All-Day Events";
+"BADGE_EVENT_CELL_TITLE" = "Enable Meetings Count";
+"POUND_EVENT_CELL_TITLE" = "Enable Auto-Pound";
+"HOST_CODE_TITLE" = "Host Code";
+"COUNTRY_NUMBER_INFO_TITLE" = "Country Number Info";
+"SHOW_INTRO_CELL_TITLE" = "Intro Screen";
+"AUTO_POUND_DESCRIPTION" = "EasyCall will enter another \"#\" after the participant/host code";

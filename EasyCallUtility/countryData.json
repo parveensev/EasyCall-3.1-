@@ -1,0 +1,1266 @@
+ [
+  {
+  "ISOCode": "AG",
+  "Latitude": "17.0746557",
+  "Location": "Antigua",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "1268",
+  "Longitude": "-61.8175207"
+  },
+  {
+  "ISOCode": "AR",
+  "Latitude": "-38.4160970",
+  "Location": "Argentina",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08002661342",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08002661342",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "5411",
+  "Longitude": "-63.6166720"
+  },
+  {
+  "ISOCode": "AU",
+  "Latitude": "-25.2743980",
+  "Location": "Australia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "1800187674",
+  "in_country_DDI": "0282239860",
+  "out_country_DDI": "+61 282239860"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "1800187674",
+  "in_country_DDI": "0282239860",
+  "out_country_DDI": "+61 282239860"
+  },
+  "AreaCode": "61",
+  "Longitude": "133.7751360"
+  },
+  {
+  "ISOCode": "AT",
+  "Latitude": "47.5162310",
+  "Location": "Austria",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800203804",
+  "in_country_DDI": "0179576200",
+  "out_country_DDI": "+43 179576200"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800203804",
+  "in_country_DDI": "0179576200",
+  "out_country_DDI": "+43 179576200"
+  },
+  "AreaCode": "43",
+  "Longitude": "14.5500720"
+  },
+  {
+  "ISOCode": "BS",
+  "Latitude": "25.0342800",
+  "Location": "Bahamas",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "1242",
+  "Longitude": "-77.3962800"
+  },
+  {
+  "ISOCode": "BH",
+  "Latitude": "25.9304140",
+  "Location": "Bahrain",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80081210",
+  "in_country_DDI": "16500452",
+  "out_country_DDI": "+973 16500452"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80004295",
+  "in_country_DDI": "16500452",
+  "out_country_DDI": "+973 16500452"
+  },
+  "AreaCode": "973",
+  "Longitude": "50.6377720"
+  },
+  {
+  "ISOCode": "BD",
+  "Latitude": "23.6849940",
+  "Location": "Bangledesh",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "880",
+  "Longitude": "90.3563310"
+  },
+  {
+  "ISOCode": "BE",
+  "Latitude": "50.5038870",
+  "Location": "Belgium",
+  "asia_pacific_host_numbers": {
+  "ITFN": "080080860",
+  "in_country_DDI": "022006279",
+  "out_country_DDI": "+32 22006279"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "080080860",
+  "in_country_DDI": "022006279",
+  "out_country_DDI": "+32 22006279"
+  },
+  "AreaCode": "32",
+  "Longitude": "4.4699360"
+  },
+  {
+  "ISOCode": "BO",
+  "Latitude": "-16.2901540",
+  "Location": "Bolivia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "800100555",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "800100555",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "591",
+  "Longitude": "-63.5886530"
+  },
+  {
+  "ISOCode": "BA",
+  "Latitude": "43.9158860",
+  "Location": "Bosnia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "387",
+  "Longitude": "17.6790760"
+  },
+  {
+  "ISOCode": "BG",
+  "Latitude": "42.7338830",
+  "Location": "Bulgaria",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "359",
+  "Longitude": "25.4858300"
+  },
+  {
+  "ISOCode": "CA",
+  "Latitude": "56.1303660",
+  "Location": "Canada",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "1",
+  "Longitude": "-106.3467710"
+  },
+  {
+  "ISOCode": "CL",
+  "Latitude": "-35.6751470",
+  "Location": "Chile",
+  "asia_pacific_host_numbers": {
+  "ITFN": "12300200395",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "12300200395",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "56",
+  "Longitude": "-71.5429690"
+  },
+  {
+  "ISOCode": "CN",
+  "Latitude": "35.8616601",
+  "Location": "China",
+  "asia_pacific_host_numbers": {
+  "ITFN": "108001301720",
+  "in_country_DDI": "4008811592",
+  "out_country_DDI": "+86 4008811592"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "108001301720",
+  "in_country_DDI": "4008811592",
+  "out_country_DDI": "+86 4008811592"
+  },
+  "AreaCode": "86",
+  "Longitude": "104.1953971"
+  },
+  {
+  "ISOCode": "CO",
+  "Latitude": "4.5708680",
+  "Location": "Colombia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "018009440322",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "018009440322",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "57",
+  "Longitude": "-74.2973330"
+  },
+  {
+  "ISOCode": "CR",
+  "Latitude": "9.7489170",
+  "Location": "Costa Rica",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08000440063",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08000440063",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "506",
+  "Longitude": "-83.7534280"
+  },
+  {
+  "ISOCode": "HR",
+  "Latitude": "45.1000000",
+  "Location": "Croatia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "385",
+  "Longitude": "15.2000000"
+  },
+  {
+  "ISOCode": "CY",
+  "Latitude": "35.1264130",
+  "Location": "Cyprus",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80092391",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80092391",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "357",
+  "Longitude": "33.4298590"
+  },
+  {
+  "ISOCode": "CZ",
+  "Latitude": "49.8174920",
+  "Location": "Czech Republic",
+  "asia_pacific_host_numbers": {
+  "ITFN": "800050019",
+  "in_country_DDI": "239000582",
+  "out_country_DDI": "+420 239000582"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "800050019",
+  "in_country_DDI": "239000582",
+  "out_country_DDI": "+420 239000582"
+  },
+  "AreaCode": "420",
+  "Longitude": "15.4729620"
+  },
+  {
+  "ISOCode": "DK",
+  "Latitude": "56.2639200",
+  "Location": "Denmark",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80251368",
+  "in_country_DDI": "38323135",
+  "out_country_DDI": "+45 38323135"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80251368",
+  "in_country_DDI": "38323135",
+  "out_country_DDI": "+45 38323135"
+  },
+  "AreaCode": "45",
+  "Longitude": "9.5017850"
+  },
+  {
+  "ISOCode": "EG",
+  "Latitude": "26.8205530",
+  "Location": "Egypt",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08000000062",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08000000062",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "20",
+  "Longitude": "30.8024980"
+  },
+  {
+  "ISOCode": "EE",
+  "Latitude": "58.5952720",
+  "Location": "Estonia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "8000044262",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "8000044262",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "372",
+  "Longitude": "25.0136070"
+  },
+  {
+  "ISOCode": "FI",
+  "Latitude": "61.9241100",
+  "Location": "Finland",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800774026",
+  "in_country_DDI": "0972519127",
+  "out_country_DDI": "+358 972519127"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800774026",
+  "in_country_DDI": "0972519127",
+  "out_country_DDI": "+358 972519127"
+  },
+  "AreaCode": "358",
+  "Longitude": "25.7481510"
+  },
+  {
+  "ISOCode": "FR",
+  "Latitude": "46.2276380",
+  "Location": "France",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0805540035",
+  "in_country_DDI": "0157323158",
+  "out_country_DDI": "+33 157323158"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0805540035",
+  "in_country_DDI": "0157323158",
+  "out_country_DDI": "+33 157323158"
+  },
+  "AreaCode": "33",
+  "Longitude": "2.2137490"
+  },
+  {
+  "ISOCode": "DE",
+  "Latitude": "51.1656910",
+  "Location": "Germany",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08003304260",
+  "in_country_DDI": "06951709237",
+  "out_country_DDI": "+49 6951709237"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08003304260",
+  "in_country_DDI": "06951709237",
+  "out_country_DDI": "+49 6951709237"
+  },
+  "AreaCode": "49",
+  "Longitude": "10.4515260"
+  },
+  {
+  "ISOCode": "GH",
+  "Latitude": "7.9465270",
+  "Location": "Ghana",
+  "asia_pacific_host_numbers": {
+  "ITFN": "",
+  "in_country_DDI": "217013244",
+  "out_country_DDI": "+233 217013244"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "",
+  "in_country_DDI": "217013244",
+  "out_country_DDI": "+233 217013244"
+  },
+  "AreaCode": "233",
+  "Longitude": "-1.0231940"
+  },
+  {
+  "ISOCode": "GR",
+  "Latitude": "39.0742080",
+  "Location": "Greece",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0080044143787",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0080044143787",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "30",
+  "Longitude": "21.8243120"
+  },
+  {
+  "ISOCode": "HK",
+  "Latitude": "22.3964280",
+  "Location": "Hong Kong",
+  "asia_pacific_host_numbers": {
+  "ITFN": "800933159",
+  "in_country_DDI": "30114593",
+  "out_country_DDI": "+852 30114593"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "800933159",
+  "in_country_DDI": "30114593",
+  "out_country_DDI": "+852 30114593"
+  },
+  "AreaCode": "852",
+  "Longitude": "114.1094970"
+  },
+  {
+  "ISOCode": "HU",
+  "Latitude": "47.1624940",
+  "Location": "Hungary",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0680013902",
+  "in_country_DDI": "0617779036",
+  "out_country_DDI": "+36 17779036"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0680013902",
+  "in_country_DDI": "0617779036",
+  "out_country_DDI": "+36 17779036"
+  },
+  "AreaCode": "36",
+  "Longitude": "19.5033040"
+  },
+  {
+  "ISOCode": "IS",
+  "Latitude": "64.9630510",
+  "Location": "Iceland",
+  "asia_pacific_host_numbers": {
+  "ITFN": "8008280",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "8008280",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "354",
+  "Longitude": "-19.0208350"
+  },
+  {
+  "ISOCode": "IN",
+  "Latitude": "20.5936840",
+  "Location": "India",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0008004401395",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0008004401395",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "91",
+  "Longitude": "78.9628800"
+  },
+  {
+  "ISOCode": "ID",
+  "Latitude": "-0.7892750",
+  "Location": "Indonesia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "001803440929",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "001803440929",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "62",
+  "Longitude": "113.9213270"
+  },
+  {
+  "ISOCode": "IE",
+  "Latitude": "53.4129100",
+  "Location": "Ireland",
+  "asia_pacific_host_numbers": {
+  "ITFN": "1800818002",
+  "in_country_DDI": "016569342",
+  "out_country_DDI": "+353 16569342"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "1800818002",
+  "in_country_DDI": "016569342",
+  "out_country_DDI": "+353 16569342"
+  },
+  "AreaCode": "353",
+  "Longitude": "-8.2438900"
+  },
+  {
+  "ISOCode": "IL",
+  "Latitude": "31.0460510",
+  "Location": "Israel",
+  "asia_pacific_host_numbers": {
+  "ITFN": "1809443213",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "1809443213",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "972",
+  "Longitude": "34.8516120"
+  },
+  {
+  "ISOCode": "IT",
+  "Latitude": "41.8719400",
+  "Location": "Italy",
+  "asia_pacific_host_numbers": {
+  "ITFN": "800916494",
+  "in_country_DDI": "0291483218",
+  "out_country_DDI": "+39 0291483218"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "800916494",
+  "in_country_DDI": "0291483218",
+  "out_country_DDI": "+39 0291483218"
+  },
+  "AreaCode": "39",
+  "Longitude": "12.5673800"
+  },
+  {
+  "ISOCode": "JM",
+  "Latitude": "18.1095810",
+  "Location": "Jamaica",
+  "asia_pacific_host_numbers": {
+  "ITFN": "18009873246",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "18009873246",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "1876",
+  "Longitude": "-77.2975080"
+  },
+  {
+  "ISOCode": "JP",
+  "Latitude": "36.2048240",
+  "Location": "Japan",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0120771472",
+  "in_country_DDI": "0357679302",
+  "out_country_DDI": "+81 357679302"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0120771472",
+  "in_country_DDI": "0357679302",
+  "out_country_DDI": "+81 357679302"
+  },
+  "AreaCode": "81",
+  "Longitude": "138.2529240"
+  },
+  {
+  "ISOCode": "JO",
+  "Latitude": "30.5851640",
+  "Location": "Jordan",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "962",
+  "Longitude": "36.2384140"
+  },
+  {
+  "ISOCode": "LV",
+  "Latitude": "56.8796350",
+  "Location": "Latvia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80002657",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80002657",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "371",
+  "Longitude": "24.6031890"
+  },
+  {
+  "ISOCode": "LB",
+  "Latitude": "33.8547210",
+  "Location": "Lebanon",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "961",
+  "Longitude": "35.8622850"
+  },
+
+  {
+  "ISOCode": "LT",
+  "Latitude": "55.1694380",
+  "Location": "Lithuania",
+  "asia_pacific_host_numbers": {
+  "ITFN": "880030426",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "880030426",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "370",
+  "Longitude": "23.8812750"
+  },
+  {
+  "ISOCode": "LU",
+  "Latitude": "49.8152730",
+  "Location": "Luxembourg",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80023436",
+  "in_country_DDI": "3420808673",
+  "out_country_DDI": "+352 3420808673"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80023436",
+  "in_country_DDI": "3420808673",
+  "out_country_DDI": "+352 3420808673"
+  },
+  "AreaCode": "352",
+  "Longitude": "6.1295830"
+  },
+  {
+  "ISOCode": "MY",
+  "Latitude": "4.2104840",
+  "Location": "Malaysia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "1800881708",
+  "in_country_DDI": "0362074029",
+  "out_country_DDI": "+60 362074029"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "1800881708",
+  "in_country_DDI": "0362074029",
+  "out_country_DDI": "+60 362074029"
+  },
+  "AreaCode": "60",
+  "Longitude": "101.9757660"
+  },
+  {
+  "ISOCode": "MX",
+  "Latitude": "23.6345010",
+  "Location": "Mexico",
+  "asia_pacific_host_numbers": {
+  "ITFN": "018005630630",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "018005630630",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "52",
+  "Longitude": "-102.5527840"
+  },
+  {
+  "ISOCode": "MA",
+  "Latitude": "31.7917020",
+  "Location": "Morrocco",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "212",
+  "Longitude": "-7.0926200"
+  },
+  {
+  "ISOCode": "NL",
+  "Latitude": "52.1326330",
+  "Location": "Netherlands",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08000201085",
+  "in_country_DDI": "0202008225",
+  "out_country_DDI": "+31 202008225"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08000201085",
+  "in_country_DDI": "0202008225",
+  "out_country_DDI": "+31 202008225"
+  },
+  "AreaCode": "31",
+  "Longitude": "5.2912660"
+  },
+  {
+  "ISOCode": "NZ",
+  "Latitude": "-40.9005570",
+  "Location": "New Zealand",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0508276961",
+  "in_country_DDI": "099128017",
+  "out_country_DDI": "+64 99128017"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0508276961",
+  "in_country_DDI": "099128017",
+  "out_country_DDI": "+64 99128017"
+  },
+  "AreaCode": "64",
+  "Longitude": "174.8859710"
+  },
+  {
+  "ISOCode": "NO",
+  "Latitude": "60.4720240",
+  "Location": "Norway",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80083974",
+  "in_country_DDI": "24159597",
+  "out_country_DDI": "+47 24159597"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80083974",
+  "in_country_DDI": "24159597",
+  "out_country_DDI": "+47 24159597"
+  },
+  "AreaCode": "47",
+  "Longitude": "8.4689460"
+  },
+  
+  
+  
+  {
+  "ISOCode": "PH",
+  "Latitude": "11.8728",
+  "Location": "Philippines",
+  "asia_pacific_host_numbers": {
+  "ITFN": "180089086511",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "180089086511",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "63",
+  "Longitude": "122.8613"
+  },
+  
+  
+  {
+  "ISOCode": "PK",
+  "Latitude": "30.3753210",
+  "Location": "Pakistan",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0080090044022",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0080090044022",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "92",
+  "Longitude": "69.3451160"
+  },
+  {
+  "ISOCode": "PA",
+  "Latitude": "8.5379810",
+  "Location": "Panama",
+  "asia_pacific_host_numbers": {
+  "ITFN": "008000443328",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "008000443328",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "507",
+  "Longitude": "-80.7821270"
+  },
+  {
+  "ISOCode": "PE",
+  "Latitude": "-9.1899670",
+  "Location": "Peru",
+  "asia_pacific_host_numbers": {
+  "ITFN": "080053271",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "080053271",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "51",
+  "Longitude": "-75.0151520"
+  },
+  {
+  "ISOCode": "PL",
+  "Latitude": "51.9194380",
+  "Location": "Poland",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800702137",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800702137",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "48",
+  "Longitude": "19.1451360"
+  },
+  {
+  "ISOCode": "PT",
+  "Latitude": "39.3998720",
+  "Location": "Portugal",
+  "asia_pacific_host_numbers": {
+  "ITFN": "800208488",
+  "in_country_DDI": "214154400",
+  "out_country_DDI": "+351 214154400"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "800208488",
+  "in_country_DDI": "214154400",
+  "out_country_DDI": "+351 214154400"
+  },
+  "AreaCode": "351",
+  "Longitude": "-8.2244540"
+  },
+  {
+  "ISOCode": "RO",
+  "Latitude": "45.9431610",
+  "Location": "Romania",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800894654",
+  "in_country_DDI": "0372766895",
+  "out_country_DDI": "+40 372766895"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800894654",
+  "in_country_DDI": "0372766895",
+  "out_country_DDI": "+40 372766895"
+  },
+  "AreaCode": "40",
+  "Longitude": "24.9667600"
+  },
+  {
+  "ISOCode": "RU",
+  "Latitude": "61.5240100",
+  "Location": "Russia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "81080021251044",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "81080021251044",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "7",
+  "Longitude": "105.3187560"
+  },
+  {
+  "ISOCode": "SA",
+  "Latitude": "23.8859420",
+  "Location": "Saudi Arabia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "8008443619",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "8008443619",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "966",
+  "Longitude": "45.0791620"
+  },
+  {
+  "ISOCode": "SG",
+  "Latitude": "1.3520830",
+  "Location": "Singapore",
+  "asia_pacific_host_numbers": {
+  "ITFN": "18006221635",
+  "in_country_DDI": "66221128",
+  "out_country_DDI": "+65 66221128"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "18006221635",
+  "in_country_DDI": "66221128",
+  "out_country_DDI": "+65 66221128"
+  },
+  "AreaCode": "65",
+  "Longitude": "103.8198360"
+  },
+  {
+  "ISOCode": "SI",
+  "Latitude": "46.1512410",
+  "Location": "Slovenia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "386",
+  "Longitude": "14.9954630"
+  },
+  {
+  "ISOCode": "ZA",
+  "Latitude": "-30.5594820",
+  "Location": "South Africa",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800166365",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800166365",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "27",
+  "Longitude": "22.9375060"
+  },
+  {
+  "ISOCode": "KR",
+  "Latitude": "35.9077570",
+  "Location": "South Korea",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0803780880",
+  "in_country_DDI": "0234831245",
+  "out_country_DDI": "+82 234831245"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0803780880",
+  "in_country_DDI": "0234831245",
+  "out_country_DDI": "+82 234831245"
+  },
+  "AreaCode": "82",
+  "Longitude": "127.7669220"
+  },
+  {
+  "ISOCode": "ES",
+  "Latitude": "40.4636670",
+  "Location": "Spain",
+  "asia_pacific_host_numbers": {
+  "ITFN": "900811654",
+  "in_country_DDI": "912754360",
+  "out_country_DDI": "+34 912754360"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "900811654",
+  "in_country_DDI": "912754360",
+  "out_country_DDI": "+34 912754360"
+  },
+  "AreaCode": "34",
+  "Longitude": "-3.7492200"
+  },
+  {
+  "ISOCode": "LK",
+  "Latitude": "7.8730540",
+  "Location": "Sri Lanka",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "94",
+  "Longitude": "80.7717970"
+  },
+  {
+  "ISOCode": "SE",
+  "Latitude": "60.1281610",
+  "Location": "Sweden",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0201701556",
+  "in_country_DDI": "0850163288",
+  "out_country_DDI": "+46 850163288"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0201701556",
+  "in_country_DDI": "0850163288",
+  "out_country_DDI": "+46 850163288"
+  },
+  "AreaCode": "46",
+  "Longitude": "18.6435010"
+  },
+  {
+  "ISOCode": "CH",
+  "Latitude": "46.8181880",
+  "Location": "Switzerland",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800000677",
+  "in_country_DDI": "0446545682",
+  "out_country_DDI": "+41 446545682"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800000677",
+  "in_country_DDI": "0446545682",
+  "out_country_DDI": "+41 446545682"
+  },
+  "AreaCode": "41",
+  "Longitude": "8.2275120"
+  },
+  {
+  "ISOCode": "TW",
+  "Latitude": "23.6978100",
+  "Location": "Taiwan",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0800666150",
+  "in_country_DDI": "0221626555",
+  "out_country_DDI": "+886 221626555"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0800666150",
+  "in_country_DDI": "0221626555",
+  "out_country_DDI": "+886 221626555"
+  },
+  "AreaCode": "886",
+  "Longitude": "120.9605150"
+  },
+  {
+  "ISOCode": "TH",
+  "Latitude": "15.8700320",
+  "Location": "Thailand",
+  "asia_pacific_host_numbers": {
+  "ITFN": "0018004413227",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "0018004413227",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "66",
+  "Longitude": "100.9925410"
+  },
+  {
+  "ISOCode": "TR",
+  "Latitude": "38.9637450",
+  "Location": "Turkey",
+  "asia_pacific_host_numbers": {
+  "ITFN": "00800448823971",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "00800448823971",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "90",
+  "Longitude": "35.2433220"
+  },
+  {
+  "ISOCode": "AE",
+  "Latitude": "23.4240760",
+  "Location": "United Arab Emirates",
+  "asia_pacific_host_numbers": {
+  "ITFN": "80004440130",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "80004440130",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "971",
+  "Longitude": "53.8478180"
+  },
+  {
+  "ISOCode": "GB",
+  "Latitude": "55.3780510",
+  "Location": "United Kingdom",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08000232036",
+  "in_country_DDI": "02036516622",
+  "out_country_DDI": "+44 2036516622"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08000232036",
+  "in_country_DDI": "02036516622",
+  "out_country_DDI": "+44 2036516622"
+  },
+  "AreaCode": "44",
+  "Longitude": "-3.4359730"
+  },
+  {
+  "ISOCode": "US",
+  "Latitude": "37.0902400",
+  "Location": "United States",
+  "asia_pacific_host_numbers": {
+  "ITFN": "8775803949",
+  "in_country_DDI": "16172135949",
+  "out_country_DDI": "+1 6172135949"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "8775803949",
+  "in_country_DDI": "16172135949",
+  "out_country_DDI": "+1 6172135949"
+  },
+  "AreaCode": "1",
+  "Longitude": "-95.7128910"
+  },
+  {
+  "ISOCode": "VE",
+  "Latitude": "6.4237500",
+  "Location": "Venezuela",
+  "asia_pacific_host_numbers": {
+  "ITFN": "08001006348",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "08001006348",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "58",
+  "Longitude": "-66.5897300"
+  },
+  {
+  "ISOCode": "VN",
+  "Latitude": "14.0583240",
+  "Location": "Vietnam",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "0838012388",
+  "out_country_DDI": "+84 838012388"
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "84",
+  "Longitude": "108.2771990"
+  },
+  {
+  "ISOCode": "ZM",
+  "Latitude": "-13.1338970",
+  "Location": "Zambia",
+  "asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "non_asia_pacific_host_numbers": {
+  "ITFN": "+1 6172135949",
+  "in_country_DDI": "",
+  "out_country_DDI": ""
+  },
+  "AreaCode": "260",
+  "Longitude": "27.8493320"
+  }
+  ]

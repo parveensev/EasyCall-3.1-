@@ -1,0 +1,659 @@
+[
+  {
+    "Latitude": "17.0746557",
+    "Longitude": "-61.8175207",
+    "AreaCode": "1268",
+    "Location": "Antigua",
+    "NotAsianPacificHost": "(1866) 306-8273",
+    "AsianPacificHost": "0",
+    "ISOCode": "AG"
+  },
+  {
+    "Latitude": "-38.4160970",
+    "Longitude": "-63.6166720",
+    "AreaCode": "5411",
+    "Location": "Argentina",
+    "NotAsianPacificHost": "(0800) 666-2917",
+    "AsianPacificHost": "(0800) 666-1979",
+    "ISOCode": "AR"
+  },
+  {
+    "Latitude": "-25.2743980",
+    "Longitude": "133.7751360",
+    "AreaCode": "61",
+    "Location": "Australia",
+    "NotAsianPacificHost": "(1800) 635497",
+    "AsianPacificHost": "(1800) 102779",
+    "ISOCode": "AU"
+  },
+  {
+    "Latitude": "47.5162310",
+    "Longitude": "14.5500720",
+    "AreaCode": "43",
+    "Location": "Austria",
+    "NotAsianPacificHost": "(0800) 298695",
+    "AsianPacificHost": "0",
+    "ISOCode": "AT"
+  },
+  {
+    "Latitude": "25.0342800",
+    "Longitude": "-77.3962800",
+    "AreaCode": "1242",
+    "Location": "Bahamas",
+    "NotAsianPacificHost": "(1866) 306-8302",
+    "AsianPacificHost": "0",
+    "ISOCode": "BS"
+  },
+  {
+    "Latitude": "25.9304140",
+    "Longitude": "50.6377720",
+    "AreaCode": "973",
+    "Location": "Bahrain",
+    "NotAsianPacificHost": "(800) 04295",
+    "AsianPacificHost": "0",
+    "ISOCode": "BH"
+  },
+  {
+    "Latitude": "23.6849940",
+    "Longitude": "90.3563310",
+    "AreaCode": "880",
+    "Location": "Bangledesh",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(157-0011) 8777325046",
+    "ISOCode": "BD"
+  },
+  {
+    "Latitude": "50.5038870",
+    "Longitude": "4.4699360",
+    "AreaCode": "32",
+    "Location": "Belgium",
+    "NotAsianPacificHost": "(0800) 80860",
+    "AsianPacificHost": "0",
+    "ISOCode": "BE"
+  },
+  {
+    "Latitude": "-16.2901540",
+    "Longitude": "-63.5886530",
+    "AreaCode": "591",
+    "Location": "Bolivia",
+    "NotAsianPacificHost": "(800) 100555",
+    "AsianPacificHost": "0",
+    "ISOCode": "BO"
+  },
+  {
+    "Latitude": "43.9158860",
+    "Longitude": "17.6790760",
+    "AreaCode": "387",
+    "Location": "Bosnia",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(0-800-0010) 8777912042",
+    "ISOCode": "BA"
+  },
+  {
+    "Latitude": "42.7338830",
+    "Longitude": "25.4858300",
+    "AreaCode": "359",
+    "Location": "Bulgaria",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(0-800-0010) 8777912042",
+    "ISOCode": "BG"
+  },
+  {
+    "Latitude": "56.1303660",
+    "Longitude": "-106.3467710",
+    "AreaCode": "1",
+    "Location": "Canada",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(1866) 741-6174",
+    "ISOCode": "CA"
+  },
+  {
+    "Latitude": "-35.6751470",
+    "Longitude": "-71.5429690",
+    "AreaCode": "56",
+    "Location": "Chile",
+    "NotAsianPacificHost": "(12300) 200395",
+    "AsianPacificHost": "(800) 430022",
+    "ISOCode": "CL"
+  },
+  {
+    "Latitude": "35.8616601",
+    "Longitude": "104.1953971",
+    "AreaCode": "86",
+    "Location": "China",
+    "NotAsianPacificHost": "(10800) 152-1530",
+    "AsianPacificHost": "0",
+    "ISOCode": "CN"
+  },
+  {
+    "Latitude": "4.5708680",
+    "Longitude": "-74.2973330",
+    "AreaCode": "57",
+    "Location": "Colombia",
+    "NotAsianPacificHost": "(01800) 944-0322",
+    "AsianPacificHost": "0",
+    "ISOCode": "CO"
+  },
+  {
+    "Latitude": "9.7489170",
+    "Longitude": "-83.7534280",
+    "AreaCode": "506",
+    "Location": "Costa Rica",
+    "NotAsianPacificHost": "(0800) 044-0063",
+    "AsianPacificHost": "0",
+    "ISOCode": "CR"
+  },
+  {
+    "Latitude": "45.1000000",
+    "Longitude": "15.2000000",
+    "AreaCode": "385",
+    "Location": "Croatia",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(0800) 223159",
+    "ISOCode": "HR"
+  },
+  {
+    "Latitude": "35.1264130",
+    "Longitude": "33.4298590",
+    "AreaCode": "357",
+    "Location": "Cyprus",
+    "NotAsianPacificHost": "(800) 92391",
+    "AsianPacificHost": "(800) 92474",
+    "ISOCode": "CY"
+  },
+  {
+    "Latitude": "49.8174920",
+    "Longitude": "15.4729620",
+    "AreaCode": "420",
+    "Location": "Czech Republic",
+    "NotAsianPacificHost": "(800) 143211",
+    "AsianPacificHost": "0",
+    "ISOCode": "CZ"
+  },
+  {
+    "Latitude": "56.2639200",
+    "Longitude": "9.5017850",
+    "AreaCode": "45",
+    "Location": "Denmark",
+    "NotAsianPacificHost": "(808) 84430",
+    "AsianPacificHost": "0",
+    "ISOCode": "DK"
+  },
+  {
+    "Latitude": "26.8205530",
+    "Longitude": "30.8024980",
+    "AreaCode": "20",
+    "Location": "Egypt",
+    "NotAsianPacificHost": "(0800) 000-0062",
+    "AsianPacificHost": "(0800) 000-0129",
+    "ISOCode": "EG"
+  },
+  {
+    "Latitude": "58.5952720",
+    "Longitude": "25.0136070",
+    "AreaCode": "372",
+    "Location": "Estonia",
+    "NotAsianPacificHost": "(800) 004-4262",
+    "AsianPacificHost": "0",
+    "ISOCode": "EE"
+  },
+  {
+    "Latitude": "61.9241100",
+    "Longitude": "25.7481510",
+    "AreaCode": "358",
+    "Location": "Finland",
+    "NotAsianPacificHost": "(0800) 914782",
+    "AsianPacificHost": "0",
+    "ISOCode": "FI"
+  },
+  {
+    "Latitude": "46.2276380",
+    "Longitude": "2.2137490",
+    "AreaCode": "33",
+    "Location": "France",
+    "NotAsianPacificHost": "(0805) 540035",
+    "AsianPacificHost": "(0800) 970171",
+    "ISOCode": "FR"
+  },
+  {
+    "Latitude": "51.1656910",
+    "Longitude": "10.4515260",
+    "AreaCode": "49",
+    "Location": "Germany",
+    "NotAsianPacificHost": "(0800) 330-4260",
+    "AsianPacificHost": "(0800) 000-1544",
+    "ISOCode": "DE"
+  },
+  {
+    "Latitude": "7.9465270",
+    "Longitude": "-1.0231940",
+    "AreaCode": "233",
+    "Location": "Ghana",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(0191-888) 4023315",
+    "ISOCode": "GH"
+  },
+  {
+    "Latitude": "39.0742080",
+    "Longitude": "21.8243120",
+    "AreaCode": "30",
+    "Location": "Greece",
+    "NotAsianPacificHost": "(00800) 4414-3787",
+    "AsianPacificHost": "0",
+    "ISOCode": "GR"
+  },
+  {
+    "Latitude": "22.3964280",
+    "Longitude": "114.1094970",
+    "AreaCode": "852",
+    "Location": "Hong Kong",
+    "NotAsianPacificHost": "(800) 933159",
+    "AsianPacificHost": "0",
+    "ISOCode": "HK"
+  },
+  {
+    "Latitude": "47.1624940",
+    "Longitude": "19.5033040",
+    "AreaCode": "36",
+    "Location": "Hungary",
+    "NotAsianPacificHost": "(06800) 13902",
+    "AsianPacificHost": "0",
+    "ISOCode": "HU"
+  },
+  {
+    "Latitude": "64.9630510",
+    "Longitude": "-19.0208350",
+    "AreaCode": "354",
+    "Location": "Iceland",
+    "NotAsianPacificHost": "(800) 8280",
+    "AsianPacificHost": "0",
+    "ISOCode": "IS"
+  },
+  {
+    "Latitude": "20.5936840",
+    "Longitude": "78.9628800",
+    "AreaCode": "91",
+    "Location": "India",
+    "NotAsianPacificHost": "(000800) 440-1395",
+    "AsianPacificHost": "(000800) 440-1121",
+    "ISOCode": "IN"
+  },
+  {
+    "Latitude": "-0.7892750",
+    "Longitude": "113.9213270",
+    "AreaCode": "62",
+    "Location": "Indonesia",
+    "NotAsianPacificHost": "(001803) 440929",
+    "AsianPacificHost": "(001803) 852-9435",
+    "ISOCode": "ID"
+  },
+  {
+    "Latitude": "53.4129100",
+    "Longitude": "-8.2438900",
+    "AreaCode": "353",
+    "Location": "Ireland",
+    "NotAsianPacificHost": "(1800) 818002",
+    "AsianPacificHost": "",
+    "ISOCode": "IE"
+  },
+  {
+    "Latitude": "31.0460510",
+    "Longitude": "34.8516120",
+    "AreaCode": "972",
+    "Location": "Israel",
+    "NotAsianPacificHost": "(1809) 443213",
+    "AsianPacificHost": "(1809) 442318",
+    "ISOCode": "IL"
+  },
+  {
+    "Latitude": "41.8719400",
+    "Longitude": "12.5673800",
+    "AreaCode": "39",
+    "Location": "Italy",
+    "NotAsianPacificHost": "(800) 916494",
+    "AsianPacificHost": "0",
+    "ISOCode": "IT"
+  },
+  {
+    "Latitude": "18.1095810",
+    "Longitude": "-77.2975080",
+    "AreaCode": "1876",
+    "Location": "Jamaica",
+    "NotAsianPacificHost": "(1800) 987-3246",
+    "AsianPacificHost": "0",
+    "ISOCode": "JM"
+  },
+  {
+    "Latitude": "36.2048240",
+    "Longitude": "138.2529240",
+    "AreaCode": "81",
+    "Location": "Japan",
+    "NotAsianPacificHost": "(00531) 440136",
+    "AsianPacificHost": "(00531) 850126",
+    "ISOCode": "JP"
+  },
+  {
+    "Latitude": "30.5851640",
+    "Longitude": "36.2384140",
+    "AreaCode": "962",
+    "Location": "Jordan",
+    "NotAsianPacificHost": "(18-800-000) 8773249766",
+    "AsianPacificHost": "0",
+    "ISOCode": "JO"
+  },
+  {
+    "Latitude": "56.8796350",
+    "Longitude": "24.6031890",
+    "AreaCode": "371",
+    "Location": "Latvia",
+    "NotAsianPacificHost": "(800) 02657",
+    "AsianPacificHost": "(800) 03738",
+    "ISOCode": "LV"
+  },
+  {
+    "Latitude": "33.8547210",
+    "Longitude": "35.8622850",
+    "AreaCode": "961",
+    "Location": "Lebanon",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(01-426-801) 8773249766",
+    "ISOCode": "LB"
+  },
+  {
+    "Latitude": "55.1694380",
+    "Longitude": "23.8812750",
+    "AreaCode": "370",
+    "Location": "Lithuania",
+    "NotAsianPacificHost": "(8800) 30426",
+    "AsianPacificHost": "0",
+    "ISOCode": "LT"
+  },
+  {
+    "Latitude": "49.8152730",
+    "Longitude": "6.1295830",
+    "AreaCode": "352",
+    "Location": "Luxembourg",
+    "NotAsianPacificHost": "(800) 25306",
+    "AsianPacificHost": "0",
+    "ISOCode": "LU"
+  },
+  {
+    "Latitude": "4.2104840",
+    "Longitude": "101.9757660",
+    "AreaCode": "60",
+    "Location": "Malaysia",
+    "NotAsianPacificHost": "(1800) 813414",
+    "AsianPacificHost": "0",
+    "ISOCode": "MY"
+  },
+  {
+    "Latitude": "23.6345010",
+    "Longitude": "-102.5527840",
+    "AreaCode": "52",
+    "Location": "Mexico",
+    "NotAsianPacificHost": "(01800) 563-0630",
+    "AsianPacificHost": "(001866) 562-1651",
+    "ISOCode": "MX"
+  },
+  {
+    "Latitude": "31.7917020",
+    "Longitude": "-7.0926200",
+    "AreaCode": "212",
+    "Location": "Morrocco",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(002-11-0011) 8884023315",
+    "ISOCode": "MA"
+  },
+  {
+    "Latitude": "52.1326330",
+    "Longitude": "5.2912660",
+    "AreaCode": "31",
+    "Location": "Netherlands",
+    "NotAsianPacificHost": "(0800) 020-1085",
+    "AsianPacificHost": "(0800) 020-0205",
+    "ISOCode": "NL"
+  },
+  {
+    "Latitude": "-40.9005570",
+    "Longitude": "174.8859710",
+    "AreaCode": "64",
+    "Location": "New Zealand",
+    "NotAsianPacificHost": "(0800) 448669",
+    "AsianPacificHost": "(0800) 447964",
+    "ISOCode": "NZ"
+  },
+  {
+    "Latitude": "60.4720240",
+    "Longitude": "8.4689460",
+    "AreaCode": "47",
+    "Location": "Norway",
+    "NotAsianPacificHost": "(800) 11301",
+    "AsianPacificHost": "",
+    "ISOCode": "NO"
+  },
+  {
+    "Latitude": "30.3753210",
+    "Longitude": "69.3451160",
+    "AreaCode": "92",
+    "Location": "Pakistan",
+    "NotAsianPacificHost": "(00800) 9004-4022",
+    "AsianPacificHost": "(00800) 9004-4039",
+    "ISOCode": "PK"
+  },
+  {
+    "Latitude": "8.5379810",
+    "Longitude": "-80.7821270",
+    "AreaCode": "507",
+    "Location": "Panama",
+    "NotAsianPacificHost": "(00800) 044-3328",
+    "AsianPacificHost": "",
+    "ISOCode": "PA"
+  },
+  {
+    "Latitude": "-9.1899670",
+    "Longitude": "-75.0151520",
+    "AreaCode": "51",
+    "Location": "Peru",
+    "NotAsianPacificHost": "(0800) 53271",
+    "AsianPacificHost": "(0800) 52124",
+    "ISOCode": "PE"
+  },
+  {
+    "Latitude": "51.9194380",
+    "Longitude": "19.1451360",
+    "AreaCode": "48",
+    "Location": "Poland",
+    "NotAsianPacificHost": "(00800) 441-1918",
+    "AsianPacificHost": "(800) 702049",
+    "ISOCode": "PL"
+  },
+  {
+    "Latitude": "39.3998720",
+    "Longitude": "-8.2244540",
+    "AreaCode": "351",
+    "Location": "Portugal",
+    "NotAsianPacificHost": "(800) 844620",
+    "AsianPacificHost": "",
+    "ISOCode": "PT"
+  },
+  {
+    "Latitude": "45.9431610",
+    "Longitude": "24.9667600",
+    "AreaCode": "40",
+    "Location": "Romania",
+    "NotAsianPacificHost": "(0800) 894654",
+    "AsianPacificHost": "(0800) 896853",
+    "ISOCode": "RO"
+  },
+  {
+    "Latitude": "61.5240100",
+    "Longitude": "105.3187560",
+    "AreaCode": "7",
+    "Location": "Russia",
+    "NotAsianPacificHost": "(810800) 2125-1044",
+    "AsianPacificHost": "",
+    "ISOCode": "RU"
+  },
+  {
+    "Latitude": "23.8859420",
+    "Longitude": "45.0791620",
+    "AreaCode": "966",
+    "Location": "Saudi Arabia",
+    "NotAsianPacificHost": "(800) 844-3619",
+    "AsianPacificHost": "(800) 844-3236",
+    "ISOCode": "SA"
+  },
+  {
+    "Latitude": "1.3520830",
+    "Longitude": "103.8198360",
+    "AreaCode": "65",
+    "Location": "Singapore",
+    "NotAsianPacificHost": "(800) 448-1512",
+    "AsianPacificHost": "(800) 852-3516",
+    "ISOCode": "SG"
+  },
+  {
+    "Latitude": "46.1512410",
+    "Longitude": "14.9954630",
+    "AreaCode": "386",
+    "Location": "Slovenia",
+    "NotAsianPacificHost": "",
+    "AsianPacificHost": "(0800) 80565",
+    "ISOCode": "SI"
+  },
+  {
+    "Latitude": "-30.5594820",
+    "Longitude": "22.9375060",
+    "AreaCode": "27",
+    "Location": "South Africa",
+    "NotAsianPacificHost": "(0800) 166365",
+    "AsianPacificHost": "(0800) 167335",
+    "ISOCode": "ZA"
+  },
+  {
+    "Latitude": "35.9077570",
+    "Longitude": "127.7669220",
+    "AreaCode": "82",
+    "Location": "South Korea",
+    "NotAsianPacificHost": "(00798) 442-2483",
+    "AsianPacificHost": "(0806) 750880",
+    "ISOCode": "KR"
+  },
+  {
+    "Latitude": "40.4636670",
+    "Longitude": "-3.7492200",
+    "AreaCode": "34",
+    "Location": "Spain",
+    "NotAsianPacificHost": "(900) 811654",
+    "AsianPacificHost": "0",
+    "ISOCode": "ES"
+  },
+  {
+    "Latitude": "7.8730540",
+    "Longitude": "80.7717970",
+    "AreaCode": "94",
+    "Location": "Sri Lanka",
+    "NotAsianPacificHost": "",
+    "AsianPacificHost": "(243) 0962",
+    "ISOCode": "LK"
+  },
+  {
+    "Latitude": "60.1281610",
+    "Longitude": "18.6435010",
+    "AreaCode": "46",
+    "Location": "Sweden",
+    "NotAsianPacificHost": "(020) 170-1556",
+    "AsianPacificHost": "0",
+    "ISOCode": "SE"
+  },
+  {
+    "Latitude": "46.8181880",
+    "Longitude": "8.2275120",
+    "AreaCode": "41",
+    "Location": "Switzerland",
+    "NotAsianPacificHost": "(0800) 555102",
+    "AsianPacificHost": "0",
+    "ISOCode": "CH"
+  },
+  {
+    "Latitude": "23.6978100",
+    "Longitude": "120.9605150",
+    "AreaCode": "886",
+    "Location": "Taiwan",
+    "NotAsianPacificHost": "(00801) 444373",
+    "AsianPacificHost": "(00801) 855940",
+    "ISOCode": "TW"
+  },
+  {
+    "Latitude": "15.8700320",
+    "Longitude": "100.9925410",
+    "AreaCode": "66",
+    "Location": "Thailand",
+    "NotAsianPacificHost": "(001800) 441-3227",
+    "AsianPacificHost": "(001800) 441-0155",
+    "ISOCode": "TH"
+  },
+  {
+    "Latitude": "38.9637450",
+    "Longitude": "35.2433220",
+    "AreaCode": "90",
+    "Location": "Turkey",
+    "NotAsianPacificHost": "(00800) 448823971",
+    "AsianPacificHost": "(0811-288-0001) 8884023315",
+    "ISOCode": "TR"
+  },
+  {
+    "Latitude": "23.4240760",
+    "Longitude": "53.8478180",
+    "AreaCode": "971",
+    "Location": "United Arab Emirates",
+    "NotAsianPacificHost": "(8000) 444-0130",
+    "AsianPacificHost": "(8000) 441-3078",
+    "ISOCode": "AE"
+  },
+  {
+    "Latitude": "55.3780510",
+    "Longitude": "-3.4359730",
+    "AreaCode": "44",
+    "Location": "United Kingdom",
+    "NotAsianPacificHost": "(0800) 023-2036",
+    "AsianPacificHost": "(0800) 587-0980",
+    "ISOCode": "GB"
+  },
+  {
+    "Latitude": "37.0902400",
+    "Longitude": "-95.7128910",
+    "AreaCode": "1",
+    "Location": "United States",
+    "NotAsianPacificHost": "(877) 580-3949",
+    "AsianPacificHost": "(866) 741-6174",
+    "ISOCode": "US"
+  },
+  {
+    "Latitude": "6.4237500",
+    "Longitude": "-66.5897300",
+    "AreaCode": "58",
+    "Location": "Venezuela",
+    "NotAsianPacificHost": "(0800) 100-6348",
+    "AsianPacificHost": "0",
+    "ISOCode": "VE"
+  },
+  {
+    "Latitude": "14.0583240",
+    "Longitude": "108.2771990",
+    "AreaCode": "84",
+    "Location": "Vietnam",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "(1-201-0288) 8665458669",
+    "ISOCode": "VN"
+  },
+  {
+    "Latitude": "-13.1338970",
+    "Longitude": "27.8493320",
+    "AreaCode": "260",
+    "Location": "Zambia",
+    "NotAsianPacificHost": "0",
+    "AsianPacificHost": "0",
+    "ISOCode": "ZM"
+  }
+]

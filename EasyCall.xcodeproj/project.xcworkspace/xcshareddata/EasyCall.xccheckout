@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4EFADCB6-134F-4D61-815C-BD64D5641A13</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EasyCall</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52F79507-13AF-4D83-A74B-D85DD4DFB1D7</key>
+		<string>http://sf-svn.pfizer.com/svn/repos/easycall_iphone/trunk/Easy%20Call/EasyCallUtility.xcodeproj</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52F79507-13AF-4D83-A74B-D85DD4DFB1D7</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>52F79507-13AF-4D83-A74B-D85DD4DFB1D7</key>
+		<string>http://sf-svn.pfizer.com/svn/repos/easycall_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://sf-svn.pfizer.com/svn/repos/easycall_iphone/trunk/Easy%20Call/EasyCallUtility.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52F79507-13AF-4D83-A74B-D85DD4DFB1D7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52F79507-13AF-4D83-A74B-D85DD4DFB1D7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EasyCall</string>
+		</dict>
+	</array>
+</dict>
+</plist>

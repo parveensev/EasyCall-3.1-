@@ -1,0 +1,8 @@
+ITFN
+Toll-free number that works for participants outside your country; most countries have one. They are good when local or international charges are high (for example: at a hotel or when calling from home). Usually there is no charge to the person calling into the meeting.
+
+In-country DDI
+Toll number that works for participants outside the USA as if they were dialing a local in-country number. They are good when the local charges are low.
+
+Outside-country DDI
+If there's no number listed for the country you're in, you can choose the Outside-country DDI for the country closest to you. This number is formatted to include the country code, which is needed in order to dial it from another country. (for example: You are in Belarus and have no direct dial-in number. You can use the Outside-country DDI for the country nearest to you - Poland, Lithuania, Latvia, etc.)
